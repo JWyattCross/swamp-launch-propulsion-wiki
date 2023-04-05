@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to the Propulasion Teams documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This site will serve as the wiki for the various experiments undertaken as part of developing a solid-fueled rocket motor.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development and many pages will be incomplete or wrong.
+   The author accepts no responsibility from imitators who damage themselves, others, or property. 
+   **Rocketry is dangerous and should only be attempted if you know what you are doing!**
 
 Contents
 --------
