@@ -3,9 +3,6 @@ Welcome to the Propulasion Teams documentation!
 
 This site will serve as the wiki for the various experiments undertaken as part of developing a solid-fueled rocket motor.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. warning::
 
    This project is under active development and many pages will be incomplete or wrong.
